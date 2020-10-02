@@ -1,7 +1,7 @@
 # hello-world
-My first GitHub repository.
+This is my first GitHub repository!
 
-
+An introduction - 
 My name is Jen. I have been studying front-end web development for three years. 
 
 I work with HTML, CSS and javaScript. I've spent a little time learning PHP so far. My preferred programming language is javaScript, I would place myself at an intermediate level with js. Although it is challenging at times, javaScript is very useful for many development tasks and I enjoy learning the language. I have gained more real experience from projects using HTML and CSS so I am more confident working with those languages. 
