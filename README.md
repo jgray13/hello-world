@@ -1,5 +1,6 @@
 # hello-world
-My first GitHub repository. 
+My first GitHub repository.
+
 
 My name is Jen. I have been studying front-end web development for three years. 
 
