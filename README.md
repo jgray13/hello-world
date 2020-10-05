@@ -9,4 +9,4 @@ I work with HTML, CSS and javaScript. I've spent a little time learning PHP so f
 
 I have a background in SEO, which is useful for my work in web deveopment as I try to incorporate a responsive design as I build sites or work on projects. 
 
-During my studies, I have gained some freelance work building and maintaining websites. This experience has been very useful for my deveopment as I find working on real projects a great way to learn. 
+During my studies, I have gained some freelance work building and maintaining websites. This experience has been very useful for my development as I find working on real projects a great way to learn. 
