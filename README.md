@@ -11,4 +11,4 @@ My preferred programming language is javaScript, and I would place myself at an 
 
 During my studies, I have gained some freelance work building and maintaining websites. This experience has been very useful for my development as I find working on real projects a great way to learn.
 
-Before I began studying web development, I worked in online marketing for a gaming company for approximately three years. My main role was in Search Engine Optimization, and I also worked on social media marketing. Being familiar with SEO has been useful for my work in web development as I incorporate a responsive design as I build sites or work on projects.
+Before I began studying web development, I worked in online marketing for a gaming company for approximately three years. My main role was in search engine optimization, and I also worked on social media marketing. Being familiar with SEO has been useful for my work in web development as I incorporate a responsive design as I build sites or work on projects.
