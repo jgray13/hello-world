@@ -3,7 +3,7 @@ This is my first GitHub repository!
 
 My introduction -
 
-My name is Jen. I am a self-taught front end web developer, with a background in SEO. I also have a keen interest in computing and inormation technology in general.
+My name is Jen. I am a self-taught front end web developer, with a background in SEO. I also have a keen interest in computing and information technology in general.
 
 I began studying web development in August 2017. To begin with, I focused on studying HTML and CSS, then moved onto learning javaScript in 2019. More recently, I have been studying PHP which has given me an insight into back end web development.
 
