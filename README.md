@@ -1,7 +1,7 @@
 # hello-world
 This is my first GitHub repository!
 
-My introduction -
+My introduction:
 
 My name is Jen. I am a self-taught front end web developer, with a background in SEO. I also have a keen interest in computing and information technology in general.
 
@@ -11,4 +11,4 @@ My preferred programming language is JavaScript, and I would place myself at an 
 
 During my studies, I have gained some freelance work building and maintaining websites. This experience has been very useful for my development as I find working on real projects a great way to learn.
 
-Before I began studying web development, I worked in online marketing for a gaming company for approximately three years. My main role was in search engine optimization, and I also worked on social media marketing. Being familiar with SEO has been useful for my work in web development as I incorporate a responsive design as I build sites or work on projects.
+Before I started web development, I worked in digital marketing. I was employed by an online gaming platform for approximately three years, where my main role was in search engine optimization, and I also worked on social media marketing. Being familiar with SEO has been useful for my work in web development as I aim to optimize websites for search engines and the web as I build them, and I incorporate a responsive design as I work on projects.
